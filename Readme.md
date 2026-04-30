@@ -38,8 +38,3 @@ This project analyzes customer behavior and sales trends using Excel. It include
 * Charts
 * Slicers
 
----
-
-## 📸 Dashboard Preview
-
-(Add your screenshot here)
